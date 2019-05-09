@@ -5,6 +5,9 @@ description: >-
   namespaces to a ES modules architecture.
 ---
 
+For the whole article go here:
+https://jorgeartieda.gitbook.io/typescript-from-namespaces-to-modules/
+
 # Typescript: Migration from Namespaces to Modules
 
 ## Prologue
